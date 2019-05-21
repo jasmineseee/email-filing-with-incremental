@@ -1,0 +1,9 @@
+spacy
+numpy
+pandas
+scikit-learn
+pyldavis
+nltk
+gensim
+xlrd
+openpyxl
